@@ -1,0 +1,7 @@
+C:\Users\morro\OneDrive\Desktop\.net projects\MsFlora\MsFlora\obj\Debug\net8.0\PubTmp\Out\MsFlora.exe
+C:\Users\morro\OneDrive\Desktop\.net projects\MsFlora\MsFlora\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\morro\OneDrive\Desktop\.net projects\MsFlora\MsFlora\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\morro\OneDrive\Desktop\.net projects\MsFlora\MsFlora\obj\Debug\net8.0\PubTmp\Out\MsFlora.dll
+C:\Users\morro\OneDrive\Desktop\.net projects\MsFlora\MsFlora\obj\Debug\net8.0\PubTmp\Out\MsFlora.deps.json
+C:\Users\morro\OneDrive\Desktop\.net projects\MsFlora\MsFlora\obj\Debug\net8.0\PubTmp\Out\MsFlora.runtimeconfig.json
+C:\Users\morro\OneDrive\Desktop\.net projects\MsFlora\MsFlora\obj\Debug\net8.0\PubTmp\Out\MsFlora.pdb
